@@ -1,2 +1,26 @@
-.card-custom {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.user-profile__badges .badge {
+  padding: 0.5rem;
+}
+
+.user-profile__badges span span {
+  margin-left: 0.5rem;
+}
+
+.latest-repos article {
+  margin-bottom: 0.5rem;
+}
+
+.list-group {
+  font-weight: bold;
+}
+
+.list-group span {
+  margin-left: 0.5rem;
+  font-weight: initial;
 }
